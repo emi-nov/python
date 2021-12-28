@@ -64,7 +64,7 @@
 
 #my_list = [8, 4, 1, 1, 5]
 #print(f"Рейтинг чисел - {my_list}")
-#digit = int(input("Введите число: (Введите 0000 для выхода) "))
+#digit = int(input("Введите число: (Введите 0000 для выхода) ")) #stop
 #while digit != 0000:
 #    for el in range(len(my_list)):
 #        if my_list[el] == digit:
